@@ -1,6 +1,0 @@
-$(window).load(async function() {
-
-
-
-
-});
