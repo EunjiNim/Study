@@ -1,0 +1,20 @@
+html, body{
+    height: auto !important;
+    min-height: 100%;
+    margin: 0 auto -60px;
+}
+
+#default{
+    margin: 5px;
+}
+
+.subList{
+    display: flex;
+    justify-content: center;
+}
+
+#drop_effect,
+#puff_effect,
+#contain_mode{
+    margin: 20px;
+}
